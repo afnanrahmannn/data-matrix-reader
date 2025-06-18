@@ -47,7 +47,7 @@ python3 read_barcode.py
 
 **Afnan Rahman**  
 [LinkedIn](https://www.linkedin.com/in/afnanrahmanprofile/)  
-[afnan@example.com](mailto:afnanrahmanbusiness@gmail.com)
+[afnanrahmanbusiness@gmail.com](mailto:afnanrahmanbusiness@gmail.com)
 
 ---
 
