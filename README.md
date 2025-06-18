@@ -46,8 +46,8 @@ python3 read_barcode.py
 ## 👨‍💻 Author
 
 **Afnan Rahman**  
-[LinkedIn](https://www.linkedin.com/in/afnanrahmannn)  
-[afnan@example.com](mailto:afnan@example.com)
+[LinkedIn](https://www.linkedin.com/in/afnanrahmanprofile/)  
+[afnan@example.com](mailto:afnanrahmanbusiness@gmail.com)
 
 ---
 
